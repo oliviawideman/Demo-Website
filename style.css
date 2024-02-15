@@ -1,0 +1,46 @@
+@font-face{
+	font-family:Lineal;
+	src:url(fonts/Lineal-Bold.woff);
+}
+		
+
+
+		body {color: deeppink;
+			background:rgba(250,244,211,1);
+			margin-left: 100px;
+			font-family:Lineal;}
+		
+		p{font-family:Lineal;}
+		
+		.pink-paragraph{
+			color: rgba(255,105,180,1);
+			width: 500px;
+		}
+		a{color:violet;}
+		a:visited{color:navy;}
+		h1{font-family:futura;}
+		#history{
+				font-size:150pt
+		}
+		h4
+		h3
+		
+		}
+		#nav{
+			background:pink;
+			width: 170px;
+			padding: 10px;
+			color:deeppink;
+			font-family:futura;
+			border-style: dotted;
+			border-color: deeppink;
+		}
+
+		#nav a{
+			color:deeppink;
+			background:pink;
+			width: 170px;
+			padding: 10px;
+			color:deeppink;
+			font-family:futura;
+		}
